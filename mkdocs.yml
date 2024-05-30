@@ -94,7 +94,7 @@ extra:
     provider: mike
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/euc-oss/euc-samples
+      link: https://github.com/euc-dev/branding
     - icon: fontawesome/brands/x-twitter
       link: https://twitter.com/WorkspaceONE
     - icon: fontawesome/brands/youtube
@@ -148,18 +148,18 @@ markdown_extensions:
 # Navigation
 nav:
   - Home:
-    - /
+    - index.md
   - Dev Centre:
-    - /dev-centre/
+    - dev-centre/index.md
   - Product Docs:
-    - /docs/
+    - docs/index.md
   - APIs:
-    - /apis/
+    - apis/index.md
   - Code Samples: 
-    - /samples/
+    - samples/index.md
   - PowerCLI:
-    - /powercli/
+    - powercli/index.md
   - SDKs: 
-    - /sdks/
+    - sdks/index.md
   - Support:
-    - /support/
+    - support/index.md
